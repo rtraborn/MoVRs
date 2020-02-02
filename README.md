@@ -19,10 +19,12 @@ document.  Once all preparatory steps are taken care of, see the
 
 ## Reference
 
-Volker P. Brendel (2019) _MoVRs: DNA motif set reduction and validation._ To be submitted.
+R. Taylor Raborn and Volker P. Brendel (2019) _MoVRs: DNA motif set reduction and validation._ To be submitted.
 
 ## Contact
 
 Please direct all comments and suggestions to
 [Volker Brendel](<mailto:vbrendel@indiana.edu>)
-at [Indiana University](http://brendelgroup.org/).
+at [Indiana University](http://brendelgroup.org/)
+or [R. Taylor Raborn](<mailto:rtraborn@asu.edu>)
+at Arizona State Unviersity
