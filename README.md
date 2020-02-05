@@ -3,6 +3,8 @@ __Motif set Reduction and Validation (MoVRs) - a workflow for the derivation of 
 
 The MoVRs repository encompasses scripts we developed in the [Brendel Group](http://brendelgroup.org/) as an extension to widely used software for DNA motif finding in the pursuit of statistically sound and biologically meaningful predictions.
 
+[![DOI](https://zenodo.org/badge/66802393.svg)](https://zenodo.org/badge/latestdoi/66802393)
+
 ## Getting Started
 
 The __MoVRs__ package conforms to our [RAMOSE](https://github.com/BrendelGroup/)
